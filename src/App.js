@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import babygoont from './Assets/aple.webp';
+import babygoont from './Assets/teto.webp';
 
 function App() {
   return (
     <div className="App">
-      <h1>Aple</h1>
+      <h1>Teto</h1>
       <img src ={babygoont} alt="baby goont" />
     </div>
     );
