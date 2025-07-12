@@ -1,15 +1,12 @@
 import React from 'react';
 import './App.css';
 import babygoont from './Assets/babygoont.webp';
-
-function App() {
-  return (
+<html>
+  <body>
     <div className="App">
       <h1>I'm zorting it!!!!</h1>
       <img src ={babygoont} alt="baby goont" />
       <button>Click if you're zorting it!</button>
-    </div>
-    );
-}
+  </body>
+</html>
 
-export default App;
