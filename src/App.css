@@ -19,8 +19,6 @@ h1 {
 }
 
 button {
-  position: fixed;
-  right: 800px;
   text-align: left;
   font-size: 20px;
   padding: 10px 20px;
