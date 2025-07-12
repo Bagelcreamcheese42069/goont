@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <h1>I'm zorting it!!!!</h1>
       <img src ={babygoont} alt="baby goont" />
-      <button>Click if you're zorting it!</button>
     </div>
     );
 }
