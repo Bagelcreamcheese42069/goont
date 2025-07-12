@@ -14,9 +14,7 @@ h1 {
 }
 
 button {
-  position: relative;
-  top: 50px;
-  right: 450px;
+  position: fixed;
   text-align: center;
   font-size: 20px;
   padding: 10px 20px;
