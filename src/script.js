@@ -1,5 +1,5 @@
 const numberElement = document.getElementById('number');
-const incrementButton = document.getElementById('increment-btn');
+const incrementButton = document.getElementById('button1');
 
 let currentNumber = parseInt(localStorage.getItem('currentNumber')) || 0;
 numberElement.textContent = currentNumber;
