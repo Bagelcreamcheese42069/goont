@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import babygoont from './Assets/babygoont.webp';
+import babygoont from './Assets/aple.webp';
 
 function App() {
   return (
