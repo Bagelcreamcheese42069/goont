@@ -5,12 +5,14 @@
 }
 
 img {
+  z-index: 1;
   text-align: center;
   position: relative;
   bottom: 80px;
 }
 
 h1 {
+  z-index: 1;
   text-align: center;
   position: relative;
   bottom: 80px;
@@ -19,6 +21,7 @@ h1 {
 }
 
 button {
+  z-index: 2
   position: relative;
   right: 800px;
   text-align: left;
