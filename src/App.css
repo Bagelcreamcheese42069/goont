@@ -5,10 +5,13 @@
 }
 
 img {
-  position: static;
+  position: relative;
+  bottom: 200px;
 }
 
 h1 {
+  position: relative;
+  bottom: 200px;
   font-size: 2.5em;
   margin-bottom: 20px;
 }
