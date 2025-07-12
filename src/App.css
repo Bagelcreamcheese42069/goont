@@ -14,7 +14,7 @@ h1 {
 }
 
 button {
-  position: fixed;
+  position: static;
   text-align: center;
   font-size: 20px;
   padding: 10px 20px;
