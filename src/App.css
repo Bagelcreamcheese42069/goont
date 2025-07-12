@@ -25,6 +25,7 @@ button:hover {
 
 button:click {
   background-color: #00000;
+}
 
 input {
   padding: 10px;
